@@ -1,0 +1,50 @@
+---
+title: "zettelkasten"
+format: html
+---
+
+What is a Zettelkasten? 
+It is a German word, translating to "slip box", meaning a box containing slips of paper. 
+You might use the word "Zettel" in German also for a receipt or a shopping list or a luggage label: any small piece of paper.
+
+salutation
+
+Do you forget things? Do you read books, and later have no idea what you read?
+Do you want to be able to write (or maybe make a speech) about something you have learned, 
+without having to start afresh with your research?
+If so, a Zettelkasten might be for you.
+
+Let me tell you a story. There was a German called Niklas Luhmann who studied Law and worked in 
+political administration in Lueneburg. In 1961 he visited Harvard and studied sociology^[under Talcott Parsons]. On returning 
+to Germany, he became a prolific writer,^[developing his own theory of social systems] eventually publishing 70 books and nearly 400 articles.^[on social research, the magnum opus being Theory of Society] 
+He is not well known outside of Germany perhaps because per Wikipedia "his writing presents a challenge even to readers of German".
+
+How did Luhmann become so prolific? To answer this question, we go back to the 19th century idea of a "commonplace book". In those days before the Internet and even public libraries, an educated lady or gentleman would carry around a notebook in which 
+they would write proverbs, sayings, prayers, recipes, or any other piece of information that they had come across and wanted to have a record of.^[For example, many of us like to include quotes in our speeches. A commonplace book was where you might have noted down quotes that caught your attention.]
+
+The problem with a commonplace book was that it contained a random collection of information of all kinds of different types, and unless you remembered where something was, it was difficult to find a particular thing you might be looking for. Victorian ladies and gentlemen of leisure had time to browse their commonplace books in search of things, but the rest of us, not so much. 
+
+Luhmann had seen those old-fashioned desks with hundreds of tiny drawers, and he
+developed the idea of numbering each note and putting it in a drawer so that it could be found again.^[Luhmann's strategy was to have a numbered note for each main idea, which lived in the front of a drawer, and when he wrote a new note, he would file it in the appropriate drawer behind the last note that was already there, numbering it appropriately.] Luhmann used small index cards;^[The advantage of using small cards is that it encourages you to be concise and to limit yourself to one thought per card.] he had a bank of drawers like a library card catalogue.^[Eventually Luhmann's Zettelkasten contained 90,000 cards.]
+
+How might you use a Zettelkasten? There are different approaches. The book How to Take Smart Notes by Sonke Ahrens gives one very detailed method, and Youtuber Vicky Zhao gives a very clear overview.^[Along with about three other videos about Zettelkasten and several others about Obsidian.]
+
+Highlights of Ahrens' procedure are:
+
+- "read with a pen in hand" and make "fleeting notes" on anything that looks interesting with book and page number / website 
+- put the books/websites you read in a reference manager like Zotero^[This has a browser extension, so that if you are reading something interesting online, one click will save a reference to it into Zotero so you can find it again.]
+- every so often turn the fleeting notes into well-formed ideas^[One note is supposed to be an atomic stand-alone point, along with links to where you read about it, and other related cards.] which are permanent notes to go into the Zettelkasten, which you link to other notes that are already there^[or if none, to an index note.]
+
+When you want to write a text or a speech, you look in your Zettelkasten for clusters
+of cards, which show places where you have already done a good bit of thinking. Pull out those cards, and see how they fit together into something you might write. Any more research you do can go onto further cards for use again later.
+
+These days, people tend not to have desks with drawers. Modern Zettelkasten ideas involve software in which you can write short notes and link them together, such as Google Keep^[Note-taking app also available on phones] or Evernote^[App for note-taking or organizing] or Notion^[anything from note-taking to building projects] or Obsidian^["personal knowledge base" where a note can be linked to any other note].
+My take is to use Google Keep for quick note-taking (the "fleeting notes"), Zotero as my literature manager, and Obsidian for the actual Zettelkasten.
+
+
+Famous people who have used a Zettelkasten or something like it include comedians^[To keep track of jokes and humorous stories so they can be woven into a routine.] Phyllis Diller, Joan Rivers, Bob Hope, and George Carlin, writer Anne Lamott,^[Who devoted a chapter of her book *Bird by Bird* to her system] and former President Ronald Reagan^[The quotes and aphorisms that he used in his speeches.]
+
+I hope I have given you an idea how a Zettelkasten might be useful for you. Thank you.
+
+I'm sure you would like to know more, about the procedure or the tools or anything else related to those.
+I would be happy to take any questions.
